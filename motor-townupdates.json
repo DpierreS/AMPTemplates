@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Downloading Motor Town Server",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2223650",
+        "UpdateSourceVersion": "beta",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
